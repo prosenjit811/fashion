@@ -1,0 +1,327 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*banner start here*/
+.banner_text {
+    padding: 120px 0;
+}
+.ban_h1 {
+    padding: 20px 0;
+    font-size: 25px;
+    line-height: 30px;
+}
+.ban_p {
+    font-size: 16px;
+    padding: 0;
+    line-height: 25px;
+}
+.ban_tp {
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.banner_btn {
+    margin: 40px 0 0;
+}
+/*product start here*/
+
+.offer_h2 {
+    font-size: 25px;
+}
+/*trending slide start here*/
+.trending {
+    padding-bottom: 80px;
+}
+.trending_slide {
+    margin-top: 35px;
+    text-align: center;
+}
+.sli_h2 {
+    margin: 25px 0 0;
+    font-size: 20px;
+}
+.trend_line {
+    margin: 5px auto;
+}
+.sli_p, .sli_h4, .sli_h5 {
+    font-size: 16px;
+}
+.sli_h4 {
+    margin: 10px 0 0;
+}
+.trend_button {
+    margin-top: 25px;
+    padding-right: 0px;
+}
+.trnd_btn {
+    margin: 16px 15px 0 15px;
+}
+.btn_shop, .btn_guide {
+    margin: 15px 15px 0 15px;
+}
+/*blog start here*/
+.blog_item {
+    margin-top: 45px;
+    text-align: center;
+}
+.blog_h2 {
+    margin: 15px 0 0;
+    font-size: 19px;
+}
+.line_blog {
+    margin: 15px 0;
+}
+.blog_p{
+    padding-right: 0;
+    font-size: 16px;
+}
+.btn_blog{
+    margin: 20px 0 0;
+}
+/*newsletter start here*/
+.newsletter {
+    padding: 45px 0;
+}
+.news_p{
+    font-size: 16px;
+    text-align: center;
+}
+.input_button {
+    text-align: center;
+}
+.news_btn {
+    margin-top: 20px;
+}
+/*footer start here*/
+.footer {
+    padding: 30px 0;
+}
+.f_p {
+    font-size: 16px;
+}
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*banner start here*/
+.banner_text {
+    padding: 120px 0;
+}
+.ban_h1 {
+    padding: 30px 0;
+    font-size: 25px;
+}
+.ban_p {
+    font-size: 18px;
+    padding: 0;
+}
+.ban_tp {
+    font-size: 16px;
+    letter-spacing: 8px;
+}
+.banner_btn {
+    margin: 40px 0 0;
+}
+/*product start here*/
+.product_item {
+    margin-top: 35px;
+    padding: 0px 55px;
+}
+.offer_h2 {
+    font-size: 40px;
+}
+/*trending slide start here*/
+.trending {
+    padding-bottom: 90px;
+}
+.trending_slide {
+    margin-top: 35px;
+    text-align: center;
+}
+.sli_h2 {
+    margin: 30px 0 10px;
+    font-size: 25px;
+}
+.trend_line {
+    margin: 10px auto;
+}
+.sli_p, .sli_h4, .sli_h5 {
+    font-size: 16px;
+}
+.sli_h4 {
+    margin: 15px 0 0;
+}
+.trend_button {
+    margin-top: 25px;
+    padding-right: 0px;
+}
+.trnd_btn {
+    margin: 16px 15px 0 15px;
+}
+.btn_shop, .btn_guide {
+    margin: 15px 15px 0 15px;
+}
+/*blog start here*/
+.blog_item {
+    margin-top: 45px;
+}
+.blog_h2 {
+    margin: 20px 0 10px;
+    font-size: 21px;
+}
+.line_blog {
+    margin: 20px 0;
+}
+.blog_p{
+    padding-right: 0;
+    font-size: 17px;
+}
+.btn_blog{
+    margin: 20px 0 0;
+}
+/*newsletter start here*/
+.newsletter {
+    padding: 55px 0;
+}
+.news_p{
+    font-size: 16px;
+}
+.news_btn {
+    padding: 13px 20px;
+    font-size: 16px;
+}
+/*footer start here*/
+.footer {
+    padding: 30px 0;
+}
+.f_p {
+    font-size: 16px;
+}
+
+
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*banner start here*/
+.banner_text {
+    padding: 150px 0;
+}
+.ban_h1 {
+    padding: 40px 0;
+    font-size: 33px;
+}
+.ban_p {
+    font-size: 23px;
+    padding: 0;
+}
+.ban_tp {
+    font-size: 22px;
+    letter-spacing: 10px;
+}
+/*products start here*/
+.offer_h2 {
+    font-size: 30px;
+}
+/*trending slide start here*/
+.trending_slide {
+    padding: 0 60px;
+    margin-top: 45px;
+    text-align: center;
+}
+.sli_h2 {
+    margin: 30px 0 10px;
+    font-size: 25px;
+}
+.trend_line {
+    margin: 10px auto;
+}
+.sli_h4 {
+    margin: 15px 0 5px;
+}
+.trend_button {
+    margin-top: 25px;
+    padding-right: 0px;
+}
+.trnd_btn {
+    margin: 16px 15px 0 15px;
+}
+.btn_shop, .btn_guide {
+    margin: 15px 15px 0 15px;
+}
+/*blog start here*/
+.blog_h2 {
+    margin: 20px 0 10px;
+    font-size: 21px;
+}
+.line_blog {
+    margin: 20px 0;
+}
+.blog_p{
+    padding-right: 0;
+    font-size: 17px;
+}
+
+
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*banner start here*/
+.banner_text {
+    padding: 150px 0;
+}
+.ban_h1 {
+    font-size: 45px;
+}
+.ban_p {
+    padding: 0;
+}
+.ban_tp {
+    font-size: 25px;
+}
+/*product start here*/
+.offer_h2 {
+    font-size: 40px;
+}
+/*trending slide start here*/
+.sli_h2 {
+    margin: 0px 0 10px;
+    font-size: 25px;
+}
+.trend_line {
+    margin: 10px 0;
+}
+.sli_h4 {
+    margin: 15px 0 5px;
+}
+.trend_button {
+    margin-top: 25px;
+    padding-right: 0px;
+}
+.btn_shop, .btn_guide {
+    margin: 15px 30px 0 0;
+}
+
+
+
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+
+
+}
+
+/*Extra Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+
+
+}
